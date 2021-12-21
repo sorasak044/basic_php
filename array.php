@@ -28,7 +28,7 @@
 
 
 
-    $color = array("red"=>"100","green"=>"200","blue"=>"300","black"=>"400","pink"=>"500");
+    $color = array("red"=>"101","green"=>"200","blue"=>"300","black"=>"400","pink"=>"500");
     foreach($color as $colors => $number):  
         echo "สี : ".$colors." =>";
         echo "รหัส :".$number."<br>";
